@@ -27,8 +27,8 @@ belirlenen bant genişliği sınırlarını aştığı için projenin çalışı
 
 Proje ile alakalı fotoğrafları inceleyebilirsiniz.
 
-[Navbar ve Header](READMEimages/pf1.PNG)
-[Arama ve Kategoriler](READMEimages/pf2.PNG)
-[Egzersizler](READMEimages/pf3.PNG)
-[Egzersiz Detay](READMEimages/pf4.PNG)
-[Önerilen Youtube Videoları](READMEimages/pf5.PNG)
+![Navbar ve Header](READMEimages/pf1.PNG)
+![Arama ve Kategoriler](READMEimages/pf2.PNG)
+![Egzersizler](READMEimages/pf3.PNG)
+![Egzersiz Detay](READMEimages/pf4.PNG)
+![Önerilen Youtube Videoları](READMEimages/pf5.PNG)
