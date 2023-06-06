@@ -22,6 +22,8 @@
 
 - Seçilen egzersize uygun youtube video kaynağı önerileri
 
+- Responsive web tasarımı
+
 Malesef RapidAPI kullanırken belirli bir süre içinde kullanıcı tarafından yapılan API isteklerinin
 belirlenen bant genişliği sınırlarını aştığı için projenin çalışır bir linkini koymadım.
 
